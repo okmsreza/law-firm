@@ -362,14 +362,16 @@
 
 	.carousel-indicators {
 		bottom: -10px;
+		float: left;
+		margin-left: 40px;
 	}
 	.carousel-item .fa-quote-left {
-    color: grey;
-    position: relative;
-    top: 27px;
-    left: -35px;
-    font-size: 25px;
-}
+		color: grey;
+		position: relative;
+		top: 27px;
+		left: -35px;
+		font-size: 25px;
+	}
 	.carousel-item h6{
 		text-align: justify;
 		color: white;

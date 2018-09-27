@@ -364,11 +364,12 @@
 		bottom: -10px;
 	}
 	.carousel-item .fa-quote-left {
-		color: grey;
-		position: relative;
-		top: 27px;
-		left: -25px;
-	}
+    color: grey;
+    position: relative;
+    top: 27px;
+    left: -35px;
+    font-size: 25px;
+}
 	.carousel-item h6{
 		text-align: justify;
 		color: white;
@@ -701,7 +702,7 @@
 			.testimonial .details {
 				padding: 0 25px;
 			}
-			
+
 			.testimonial .details {
 				text-align: center;
 				margin-top: 15px;
@@ -712,6 +713,7 @@
 			.carousel-item .fa-quote-left {
 				top: 27px;
 				left: -260px;
+				font-size: 15px;
 			}
 			.blog {
 				padding-top: 17px;
@@ -785,7 +787,7 @@
 				padding: 0 45px;
 			}
 			.carousel-item .fa-quote-left {
-				
+
 				left: -240px;
 			}
 
@@ -900,7 +902,7 @@
 				.carousel-item .fa-quote-left {
 					left: -140px;
 				}
-				
+
 			}
 
 			@media screen and (max-width:320px){
@@ -924,4 +926,3 @@
 					left: -114px;
 				}
 			}
-			

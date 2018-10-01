@@ -180,6 +180,7 @@
 	/* === 3. Hero Section CSS === */ 
 
 	.hero{
+		position:relative;
 		background-color: #fff;
 		background:url('../../assets/images/bg/hero-image.png') no-repeat;
 		background-size: cover;
@@ -187,7 +188,10 @@
 	}
 
 	.hero-content {
-		padding-top: 550px;
+		position: absolute;
+    		top: 40%;
+    		left: 40%;
+    		transform: translate(-50%,-50%);
 
 	}
 	.hero-title {
